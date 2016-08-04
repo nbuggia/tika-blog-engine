@@ -1,0 +1,15 @@
+{
+  "name": "tika",
+  "version": "1.0.0",
+  "description": "simple blog engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "nbuggia@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
